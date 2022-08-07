@@ -30,6 +30,7 @@ lang: zh-CN
 主流浏览器 | 完美支持
 Potplayer（Windows） | 完美支持
 MPC-BE（Windows） | 完美支持
+mpv（Windows） | 完美支持
 MX player（Android） | 完美支持
 系统自带的 ZuneVideo（Windows） | 不支持
 
